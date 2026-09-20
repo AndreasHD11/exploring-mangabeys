@@ -9,31 +9,29 @@ We wrote this blog to explain how we backpacked for 2 weeks through Central/Nort
 
 Before you start, here was our itinerary: 
 <br> 
-<figure markdown="span" class="figure-left">
-![Trail](images/tanzania/tanzania-map1.jpg)
-<figcaption>Our 16 day trail</figcaption>
-</figure>
 
-
-</figure>
+![Trail](images/tanzania/tanzania-map1.jpg) TO CHANGE
 
 ## Day 1: Kilimanjaro-Arusha-Dodoma
 <u>Arrival in Kilimanjaro Airport:</u>
 Visa on arrival is 50$. Queue was quite long but took about45 mins to get through (the queues for people who already had a visa took marginally less time but not super different) <p>
 We thought there were bus transfers to Arusha, probably are but didn’t manage to figure that out. Instead we took a private taxi and they began with $50 but then decreased to $35 and told us it was a friend’s price (likely the same spiel for everyone!) <p>
-The taxi driver brought us to Arusha bus station and helped us sort 1) a bus to Dodoma 2) SIM cards 3) some bread for the trip. <p>
+The taxi driver brought us to Arusha bus station and helped us sort:a bus to Dodoma, SIM cards, some bread for the trip. <p>
+
 SIM cards: 
-SIM cards the easiest is to go to a Vodacom shop in town (there are some on the sides of the bus stations/streets). They take 10.000 Tsh for installing the SIMs and 10.000 for 5GBs of Data). Bring your passport for this.<p>
+SIM cards the easiest is to go to a Vodacom shop in town (there are some on the sides of the bus stations/streets). They take 10.000 Tsh for installing the SIMs and 10.000 for 5GBs of Data. Bring your passport for this.<p>
 ATMs: 
 We also stopped at an ATM on our way to the station: CRBD was our first stop but they only let you take 400,000 Tsh out at a time. NMB is slightly better: 600,000 Tsh at a time and only 15,000 in fees.<p>
 
-The bus trip Arusha - Dodoma was 7 hours. We left at 14.30 and arrived to Area C Dodoma at 21.30. We slept at Baobab Homestay. Would <u>personally</u> not recommend. The buses also usually stop in the centre of Dodoma and there are (according to our quick google/Booking.com search) fair priced hotels 5-6mjn walk from the station. We personally felt very safe walking at night but easy to take a motorbike/tuktuk to/from anywhere.
+The bus trip Arusha - Dodoma was 7 hours. We left at 14.30 and arrived to Area C Dodoma at 21.30. This bus did not stop for a toilet break for some reason (but every other bus in this trip did). We slept at Baobab Homestay. Would <u>personally</u> not recommend. The buses also usually stop in the centre of Dodoma and there are (according to our quick google/Booking.com search) fair priced hotels 5-6min walk from the station. We personally felt very safe walking at night but easy to take a motorbike/tuktuk to/from anywhere.
+
+![vodacom](images/tanzania/vodacom1.jpeg){width="90%"}
 
 
 ## Day 2: Dodoma to Iringa
-Next morning we took a motorbike to the station we needed to go to Iringa from. Busbora is the website we were checking for bus timings. It initially said we should leave from Nanenane station which is much further away from Dodoma in the outskirts in thé Dar Es Salaam direction. This is not where we ended up going. We just told the bodaboda driver we were going to Iringa and he took us to a place where buses leave from. We took Rosa Luxury bus to Iringa.
+Next morning we took a motorbike to the station we needed to go to Iringa from. [Busbora](https://busbora.com/) is the website we were checking for bus timings. It initially said we should leave from Nanenane station which is much further away from Dodoma, in the outskirts towards the Dar Es Salaam direction. This is not where we ended up going. We just told the bodaboda driver we were going to Iringa and he took us to a place where buses leave from. We took "Rosa Luxury" bus to Iringa.
 
-The bus ride from Dodoma to Iringa took about 4 hours. We left at 10.30 and arrived at 14.30. The bus drops you around here: [GPX](https://maps.app.goo.gl/yLFQm2KdkN7LBSiH6){: target="_blank"} point. We walked to the hostel but you can also take bodaboda/tuktuk. 
+The bus ride from Dodoma to Iringa took about 4 hours. We left at 10.30 and arrived at 14.30. The bus drops you around here: [GPX](https://maps.app.goo.gl/yLFQm2KdkN7LBSiH6){: target="_blank"} point. We had lunch in a café on the side of the main street, and then walked to the hostel but you can also take bodaboda/tuktuk. 
 
 In Iringa, we stayed at Hidden Valley Backpackers’ Hostel: <br>
 
@@ -50,9 +48,9 @@ They picked us up at 9am the next day. Lunch and dinner included and we stayed i
 Worth noting that Ruaha was amazing and we saw elephants, lions, giraffes, a leopard, hippos, buffalo, lots of different antelopes… We didn’t see many other cars/tours and this made it feel really special! 
 
 <div class="carousel" markdown="1">
-![Elephants](images/tanzania/elephants.jpg){data-gallery="my-gallery"}
-![sunset](images/tanzania/sunset-ruaha.jpg){data-gallery="my-gallery"}
-![leopard](images/tanzania/leopard.jpg){data-gallery="my-gallery"}
+![Elephants](images/tanzania/elephants1.jpg){data-gallery="my-gallery"}
+![sunset](images/tanzania/sunset1.jpg){data-gallery="my-gallery"}
+![leopard](images/tanzania/leopard1.HEIC){data-gallery="my-gallery"}
 </div>
 
 ## Day 5: Iringa to Mang’ula (Udzungwa National Park) 
@@ -80,9 +78,12 @@ For eating, we went to the Mountain Peak Lodge every night we were there. Pretty
 - We also ate at a chips mayai place (chips in egg omelette) on the side of the road (more or less around here: [GPX](https://maps.app.goo.gl/csfxdFQaxDeVZo2W7)).
 - You can easily rent bikes around town, we rented on this street: [GPX](https://maps.app.goo.gl/wtxgfJ4CGczXcrmG7). Cost us 600 Tsh for two bikes for an hour. We rode down the road into the rubber plantations [GPX](https://maps.app.goo.gl/8zxbCYCTG5pziC4o7), was a really nice and easy activity. 
 
-Below is the rubber plantation:<br>
 
+<figure markdown="span" class="figure-left">
 ![Rubber](images/tanzania/rubber-mangula.jpg)
+<figcaption style="text-align:center"> Rubber plantation </figcaption>
+</figure>
+
 ### Udzungwa National Park
 There are multiple hikes you can do. There are overnight hikes and day hikes. The ones we did/explored doing were:
 
@@ -106,7 +107,10 @@ There are multiple hikes you can do. There are overnight hikes and day hikes. Th
 
 NB: You cannot enter the park without a guide. 
 
-![Sanje](images/tanzania/sanje-watell.jpg)
+<div class="carousel" markdown="1">
+![Sanje1](images/tanzania/sanje1.JPG)
+![Sanje](images/tanzania/sanje-waterfall.jpg)
+</div>
 
 ### Train from Mang’ula to Makambako 
 We wanted to take a train in Tanzania. There is the famous Tazara Railway in the South that goes from Dar to Mbeya and beyond to Zambia, but from the info we got, it’s currently not going to Zambia, just stops in Mbeya on the Tanzanian side. 
@@ -193,6 +197,8 @@ If you’re in Moshi or Arusha, the day before departure you can go to the Air T
     - Daladala: local bus that doesn’t cover very long distances (normally not the same as "basi" which is the longer buses). 
     - Bodaboda/Pikipiki: Motorbike. We use these interchangeably but it seems pikipiki is more often used in Tanzania. Bodaboda is understood by everyone though.
 
+- One of us spoke a little bit of Swahili which was extremely useful to ask around. Depending on where you go, many people won't speak English so knowing how to communicate a bit will help.
+
 
 ## More photos!
 <div class="carousel" markdown="1">
@@ -201,6 +207,9 @@ If you’re in Moshi or Arusha, the day before departure you can go to the Air T
 ![Pangani2](images/tanzania/carousel-mikumi.jpg){data-gallery="my-gallery"}
 ![Pangani2](images/tanzania/carousel-pangani.jpg){data-gallery="my-gallery"}
 </div>
+
+## Our view on our travels
+Travelling comes with privilege. We travel with our money, education, cultural and social understandings and norms. When we leave the "beaten path" and choose to travel further away from the established tourist trail through countries, we end up in places where economies and social structures are not necessarily prepared to receive us. It is important in those moments to remember that we are guests and to respect the values, norms and traditions of the place we are in. We are also a guest of nature and must leave no trace wherever we go. We have tried as much as possible to abide by this wherever we have gone and hope that wandering through these places you will too. Being kind and open-minded goes a long way.
 
 
 

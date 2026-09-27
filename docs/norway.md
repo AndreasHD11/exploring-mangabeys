@@ -4,3 +4,4 @@ comments: true
 ---
 
 # Norway (Lysefjord)
+Soon..

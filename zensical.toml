@@ -1,6 +1,6 @@
 [project]
 site_url = "https://andreashd11.github.io/path-less-wandered/"
-site_name = "Path Less Wandered"
+site_name = "Exploring Mangabeys"
 site_description = "This is a blog website about travelling to cool places"
 # site_author = "Andreas Hernandez Denyer & Carla Broussy"
 
@@ -62,11 +62,6 @@ text = "Outfit"
 code = "Jetbrains Mono"
 
 [[project.theme.palette]]
-media = "(prefers-color-scheme)"
-toggle.icon = "lucide/sun-moon"
-toggle.name = "Switch to light mode"
-
-[[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
@@ -76,7 +71,7 @@ toggle.name = "Switch to dark mode"
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to system preference"
+toggle.name = "Switch to light mode"
 
 # [[project.extra.social]]
 # icon = "fontawesome/brands/github"

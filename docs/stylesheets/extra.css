@@ -29,4 +29,34 @@
 /*For headers*/
 .md-typeset h2{border-bottom:2px solid var(--md-primary-fg-color);padding-bottom:.3rem}
 
+.md-typeset h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  letter-spacing: -.02rem;
+  margin-bottom: 1rem;
+  border-bottom: 3px solid var(--md-primary-fg-color);
+  padding-bottom: .5rem;
+  background: linear-gradient(90deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/*For logo*/
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+  width: auto;
+}
+
+/*For map in index*/
+#blog-map {
+  border: 2px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  background: var(--md-default-bg-color);
+  overflow: hidden;
+}
+
+
 

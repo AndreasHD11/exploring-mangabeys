@@ -1,5 +1,5 @@
 [project]
-site_url = "https://andreashd11.github.io/path-less-wandered/"
+site_url = "https://andreashd11.github.io/exploring-mangabeys/"
 site_name = "Exploring Mangabeys"
 site_description = "This is a blog website about travelling to cool places"
 # site_author = "Andreas Hernandez Denyer & Carla Broussy"
@@ -15,13 +15,20 @@ nav = [
   { "Norway" = "norway.md" },
 ]
 
-extra_css = ["stylesheets/extra.css"]
-extra_javascript = ["javascripts/extra.js"]
+extra_css = [
+  "stylesheets/extra.css",
+  "https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/jsvectormap.min.css"
+  ]
+extra_javascript = [
+  "javascripts/extra.js",
+  "https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/jsvectormap.min.js",
+  "https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/maps/world.js",
+]
 
 [project.theme]
 # variant = "classic"
 custom_dir = "overrides"
-# favicon = "images/favicon.png"
+favicon = "images/all/backpack-oct1.png"
 language = "en"
 features = [
   "announce.dismiss",
@@ -52,7 +59,7 @@ features = [
   # "toc.integrate",
 ]
 
-# logo = "assets/logo.png"
+logo = "images/all/backpack-oct1.png"
 
 # [project.theme.icon]
 # logo = "lucide/smile"
@@ -88,7 +95,7 @@ attr_list = {}
 def_list = {}
 footnotes = {}
 md_in_html = {}
-toc.permalink = true
+toc.permalink = false
 pymdownx.arithmatex.generic = true
 pymdownx.betterem = {}
 pymdownx.caret = {}

@@ -21,3 +21,38 @@ document.querySelectorAll(".carousel").forEach(el => {
   const btn = (cls, txt, fn) => Object.assign(document.createElement("button"), {className: `carousel-nav ${cls}`, textContent: txt, onclick: fn});
   el.append(btn("carousel-prev", "‹", () => show(i - 1)), btn("carousel-next", "›", () => show(i + 1)));
 });
+
+const blogCountries = {
+  NO: "norway/",
+  TZ: "tanzania/"
+};
+
+document.addEventListener("DOMContentLoaded", function () {
+  const el = document.getElementById("blog-map");
+  if (!el) return;
+
+  new jsVectorMap({
+    selector: "#blog-map",
+    map: "world",
+    zoomButtons: false,
+    backgroundColor: "transparent",
+    regionStyle: {
+      initial: { fill: "#d3d3d3" },
+      hover: { fill: "#d3d3d3", cursor: "default" }
+    },
+    series: {
+      regions: [{
+        values: Object.fromEntries(Object.keys(blogCountries).map(c => [c, 1])),
+        attribute: "fill",
+        scale: ["#033bf2", "#033bf2"]
+      }]
+    },
+    onRegionTooltipShow(event, tooltip, code) {
+      if (!blogCountries[code]) tooltip.el.style.display = "none";
+    },
+    onRegionClick(event, code) {
+      if (blogCountries[code]) window.location.href = blogCountries[code];
+    }
+  });
+});
+

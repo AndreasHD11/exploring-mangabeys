@@ -11,7 +11,7 @@ We wrote this blog to explain how we backpacked for 2 weeks through Central/Nort
 Before you start, here was our itinerary: 
 <br> 
 
-![Trail](images/tanzania/itinerary.jpg)
+![Trail](images/tanzania/itinerary.JPG)
 
 ## Day 1: Kilimanjaro-Arusha-Dodoma
 <u>Arrival in Kilimanjaro Airport:</u>
@@ -36,7 +36,7 @@ The bus ride from Dodoma to Iringa took about 4 hours. We left at 10.30 and arri
 
 In Iringa, we stayed at Hidden Valley Backpackers’ Hostel: <br>
 
-![Hidden Valley Backpackers' Hostel](/images/tanzania/hidden-valleys.jpg)
+![Hidden Valley Backpackers' Hostel](images/tanzania/hidden-valleys.jpg)
 <br>
 It was a great stay with a lovely outdoor area to relax and clean rooms. It’s about 15-20 min walk from town. Our favourite place to eat in Iringa was “Clocktower Cafe”.
 
@@ -49,9 +49,9 @@ They picked us up at 9am the next day. Lunch and dinner included and we stayed i
 Worth noting that Ruaha was amazing and we saw elephants, lions, giraffes, a leopard, hippos, buffalo, lots of different antelopes… We didn’t see many other cars/tours and this made it feel really special! 
 
 <div class="carousel" markdown="1">
-![Elephants](images/tanzania/elephants1.jpg){data-gallery="my-gallery"}
-![sunset](images/tanzania/sunset1.jpg){data-gallery="my-gallery"}
-![leopard](images/tanzania/leopard1.HEIC){data-gallery="my-gallery"}
+![Elephants](images/tanzania/elephants1.JPG){data-gallery="my-gallery"}
+![sunset](images/tanzania/sunset1.JPG){data-gallery="my-gallery"}
+![leopard](images/tanzania/leopard1.jpg){data-gallery="my-gallery"}
 ![giraffe](images/tanzania/giraffe.JPG){data-gallery="my-gallery"}
 </div>
 
@@ -84,7 +84,7 @@ A few tips/places we recommend: <p>
 ![Rubber](images/tanzania/rubber1.JPG "Rubber plantation")
 ![mangula1](images/tanzania/mangula1.JPG "Simba FC playing")
 ![mangula2](images/tanzania/mangula2.JPG)
-![mangula3](images/tanzania/mangula3.HEIC "Mangula train station")
+![mangula3](images/tanzania/mangula3.jpg "Mangula train station")
 </div>
 
 ### Udzungwa National Park
@@ -115,7 +115,7 @@ NB: You cannot enter the park without a guide.
 
 <div class="carousel" markdown="1">
 ![Sanje1](images/tanzania/sanje1.JPG)
-![Sanje](images/tanzania/cataratas.jpg){ .carousel-tall }
+![Sanje](images/tanzania/cataratas.JPG){ .carousel-tall }
 </div>
 
 ### Train from Mang’ula to Makambako 
@@ -143,11 +143,11 @@ We took ABC Upper Class bus (had booked the night before as they get filled up f
 
 Took a pikipiki to town and stayed at Mama Pierina Hostel (55,000 Tsh for a double room if you pay in person- cheaper than through Booking). The stay was great: rooms are clean and it is held by an italian-greek woman who grew up in Tanzania. There was fresh lasagne for dinner!
 
-![pierina](images/tanzania/morogoro-hd2.jpg)
+![pierina](images/tanzania/morogoro-hd2.JPG)
 
 We visited Morogoro on foot, very nice town with beautiful mountains surrounding it. There is a central market where you can buy kitenge (local cloth).
 
-![morogoro](images/tanzania/morogoro-hd1.jpg) <br>
+![morogoro](images/tanzania/morogoro-hd1.JPG) <br>
 Also, we’re told there is a train from Dodoma-Dar that stops in Morogoro. It’s modern and takes 1h45 from Morogoro to Dar (not sure of price but could be a good option instead of bus).
 
 ## Day 11: Tanga
@@ -161,15 +161,15 @@ From Tanga towards Pangani there are hourly departures of daladalas from the Pan
 We wanted a coastal stay so we chose: Juani Pangani - [GPX](https://maps.app.goo.gl/sAYsvj4SJArfRTtm9). We just told the daladala driver where we wanted to get off and they dropped us off on the road- after that, we walked 10 mins to the place. It felt very peaceful and was an incredible value for money (70000 Tsh per night). We had the place to ourselves: 2 single beds (no double bed) and a huge living area with a kitchen (if you bring your own food you can cook), and a seated area that is covered but outdoors and next to the palm trees.
 
 <div class="carousel" markdown="1">
-![Pangani1](images/tanzania/pangani-house1.jpg){data-gallery="my-gallery"}
-![Pangani2](images/tanzania/pangani-house2.jpg){data-gallery="my-gallery"}
+![Pangani1](images/tanzania/pangani-house1.JPG){data-gallery="my-gallery"}
+![Pangani2](images/tanzania/pangani-house2.JPG){data-gallery="my-gallery"}
 </div>
 
 Benny (the caretaker - +255678312518) was a great help- he brought us to Pangani for our day trip and came to pick us up again. He also organised the day trip through a contact: Kassim (+255 717463871).  <p>
 
 The day trip we chose was Maziwe Island. It’s a sandbank about 35 minutes away from Pangani by boat. It cost us 60 USD each and included the boat trip, entry to the nations park, the guides, and a snorkelling mask. We arrived first to the island and it was truly magical. A local student group arrived later. The snorkelling was great: coral, fish.
 
-![Maziwe](images/tanzania/maziwe1.jpg)
+![Maziwe](images/tanzania/maziwe1.JPG)
 
 ## Day 14: Pangani to Moshi
 To leave Juani Pangani, we just set up by the main road and waited for the first daladala passing by. We got picked up after 10 mins and it took us another 1h30 to get back to Tanga (Pangani bus station). 
@@ -213,9 +213,9 @@ If you’re in Moshi or Arusha, the day before departure you can go to the Air T
 ## More photos!
 <div class="carousel" markdown="1">
 ![Pangani2](images/tanzania/mangula-crops.JPG){data-gallery="my-gallery"}
-![Pangani1](images/tanzania/iringa-bus.jpg){data-gallery="my-gallery"}
-![Pangani2](images/tanzania/mikumi-cafe.jpg){data-gallery="my-gallery"}
-![Pangani2](images/tanzania/panganibeach.jpg){data-gallery="my-gallery"}
+![Pangani1](images/tanzania/iringa-bus.JPG){data-gallery="my-gallery"}
+![Pangani2](images/tanzania/mikumi-cafe.JPG){data-gallery="my-gallery"}
+![Pangani2](images/tanzania/panganibeach.JPG){data-gallery="my-gallery"}
 ![Lion](images/tanzania/lion1.JPG){data-gallery="my-gallery"}
 ![northeeast](images/tanzania/northeast.JPG)
 </div>

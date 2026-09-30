@@ -51,12 +51,21 @@
 }
 
 /*For map in index*/
-#blog-map {
-  border: 2px solid var(--md-default-fg-color--lightest);
+.blog-map {
+  width: 100%;
+  height: 500px;
+  border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 8px;
   background: var(--md-default-bg-color);
   overflow: hidden;
 }
+
+@media (max-width: 600px) {
+  .blog-map {
+    height: 280px;
+  }
+}
+
 
 
 

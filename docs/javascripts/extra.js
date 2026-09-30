@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const el = document.getElementById("blog-map");
   if (!el) return;
 
-  new jsVectorMap({
+  const map = new jsVectorMap({
     selector: "#blog-map",
     map: "world",
     zoomButtons: false,
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
       regions: [{
         values: Object.fromEntries(Object.keys(blogCountries).map(c => [c, 1])),
         attribute: "fill",
-        scale: ["#033bf2", "#033bf2"]
+        scale: ["#214ee4", "#214ee4"]
       }]
     },
     onRegionTooltipShow(event, tooltip, code) {
@@ -54,5 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (blogCountries[code]) window.location.href = blogCountries[code];
     }
   });
+
+  window.addEventListener("resize", () => map.updateSize());
 });
 

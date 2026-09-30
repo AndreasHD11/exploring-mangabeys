@@ -5,4 +5,4 @@ Hope you enjoy the different stories and travels on this blog website!
 <br><p>
 !!! info "Here is a map of the current countries we have blogs for:"
 
-<div id="blog-map" style="width:100%;height:500px"></div>
+<div id="blog-map" class="blog-map"></div>

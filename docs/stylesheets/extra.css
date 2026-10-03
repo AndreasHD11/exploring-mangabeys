@@ -32,15 +32,11 @@
 .md-typeset h1 {
   font-size: 2.2rem;
   font-weight: 700;
-  color: var(--md-primary-fg-color);
+  color: #000000;
   letter-spacing: -.02rem;
   margin-bottom: 1rem;
-  border-bottom: 3px solid var(--md-primary-fg-color);
+  border-bottom: 3px solid #546936;
   padding-bottom: .5rem;
-  background: linear-gradient(90deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
 }
 
 /*For logo*/
@@ -63,6 +59,49 @@
 }
 
 
+/*For background */
+/* Light mode*/
+[data-md-color-scheme="default"] body,
+[data-md-color-scheme="default"] .md-main {
+  background-color: #acc28d;                       /* fallback green */
+  background-image: url("../images/monkey-bg.png"); /* path relative to the CSS file */
+  background-attachment: fixed;
+}
+[data-md-color-scheme="default"] .md-content__inner {
+  background: #acc28d;
+  border-radius: 10px;
+  padding: 1rem 1.5rem;
+}
 
+/*For sidebar title */
+[data-md-color-scheme="default"] .md-nav__title,
+[data-md-color-scheme="default"] .md-nav--primary .md-nav__title {
+  background-color: #acc28d;
+}
 
+/*For top bit of page */
+[data-md-color-scheme="default"] .md-header {
+  background-color: #546936;
+  color: #fff;   /* title, icons and search text */
+}
 
+/*Website title */
+.md-header__title {
+  font-size: 1.3rem;   
+  font-weight: 500;
+}
+
+/*Side animals: placed in the .md files, shown only on wide screens*/
+.md-main__inner{position:relative}
+.md-typeset .side-animal{display:none}
+@media (min-width:90em){
+  .md-typeset .side-animal{
+    display:block;position:absolute;z-index:1;
+    width:12rem;height:auto;margin:0;
+    border-radius:0;box-shadow:none;pointer-events:none}
+  .side-left{left:-10rem}
+  .side-right{right:-8rem}
+  .side-top{top:10rem}
+  .side-mid{top:20rem}
+  .side-low{top:40rem}
+}

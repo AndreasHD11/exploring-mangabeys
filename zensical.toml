@@ -1,5 +1,5 @@
 [project]
-site_url = "https://andreashd11.github.io/exploring-mangabeys/"
+site_url = "http://exploringmangabeys.de/"
 site_name = "Exploring Mangabeys"
 site_description = "This is a blog website about travelling to cool places"
 # site_author = "Andreas Hernandez Denyer & Carla Broussy"
@@ -28,7 +28,7 @@ extra_javascript = [
 [project.theme]
 # variant = "classic"
 custom_dir = "overrides"
-favicon = "images/all/backpack-oct1.png"
+favicon = "images/all/mangabey-logo1.png"
 language = "en"
 features = [
   "announce.dismiss",
@@ -59,7 +59,7 @@ features = [
   # "toc.integrate",
 ]
 
-logo = "images/all/backpack-oct1.png"
+logo = "images/all/mangabey-logo1.png"
 
 # [project.theme.icon]
 # logo = "lucide/smile"

@@ -37,14 +37,14 @@ document.addEventListener("DOMContentLoaded", function () {
     zoomButtons: false,
     backgroundColor: "transparent",
     regionStyle: {
-      initial: { fill: "#d3d3d3" },
+      initial: { fill: "#747171" },
       hover: { fill: "#d3d3d3", cursor: "default" }
     },
     series: {
       regions: [{
         values: Object.fromEntries(Object.keys(blogCountries).map(c => [c, 1])),
         attribute: "fill",
-        scale: ["#214ee4", "#214ee4"]
+        scale: ["#179d13", "#179d13"]
       }]
     },
     onRegionTooltipShow(event, tooltip, code) {

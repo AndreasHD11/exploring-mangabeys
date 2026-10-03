@@ -3,7 +3,7 @@ icon: flags/tz
 comments: true
 ---
 
-# Tanzania
+# Central Tanzania
 :octicons-calendar-24: September, 2026
 
 We wrote this blog to explain how we backpacked for 2 weeks through Central/North-Eastern Tanzania on a budget. If you have seen the prices for Serengeti, Ngorongoro and Zanzibar and are wondering how on earth to experience this beautiful country without ending up penniless, this is for you! 
@@ -226,7 +226,7 @@ Travelling comes with privilege. We travel with our money, education, cultural a
 ### Comments
 You can add some comments on Reddit here, or use the github discussions comment section too.
 
-
+![monkey](images/all/monkey-mangabey2.png){ .side-animal .side-left .side-mid loading=lazy style="width:11rem; top:2rem"}
 
 
 

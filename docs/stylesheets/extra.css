@@ -38,6 +38,11 @@
   border-bottom: 3px solid #546936;
   padding-bottom: .5rem;
 }
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  color: var(--md-primary-fg-color);
+  border-bottom-color: var(--md-primary-fg-color);
+}
+
 
 /*For logo*/
 .md-header__button.md-logo img,

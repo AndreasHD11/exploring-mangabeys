@@ -226,7 +226,7 @@ Travelling comes with privilege. We travel with our money, education, cultural a
 ### Comments
 You can add some comments on Reddit here, or use the github discussions comment section too.
 
-![monkey](images/all/monkey-mangabey2.png){ .side-animal .side-left .side-mid loading=lazy style="width:11rem; top:2rem"}
+![monkey](images/all/monkey-mangabey2.png){ .side-animal .side-left .side-mid loading=lazy style="width:11rem; top:2rem;left:-9rem"}
 
 
 

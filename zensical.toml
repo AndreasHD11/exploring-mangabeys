@@ -1,7 +1,7 @@
 [project]
-site_url = "http://exploringmangabeys.de/"
+site_url = "https://exploringmangabeys.de/"
 site_name = "Exploring Mangabeys"
-site_description = "This is a blog website about travelling to cool places"
+site_description = "Hello! If you enjoy off-the-beaten-path trips with a good dose of nature and respectful local life discovery, the info on this page is going to be very useful!"
 # site_author = "Andreas Hernandez Denyer & Carla Broussy"
 
 # copyright = "Copyright &copy; 2026 Your name"
@@ -12,7 +12,7 @@ site_description = "This is a blog website about travelling to cool places"
 
 nav = [
   { "Tanzania" = "tanzania.md" },
-  { "Norway" = "norway.md" },
+  #{ "Norway" = "norway.md" },
 ]
 
 extra_css = [

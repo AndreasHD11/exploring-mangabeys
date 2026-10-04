@@ -1,6 +1,7 @@
 ---
 icon: flags/tz
 comments: true
+description: "How we backpacked Central and North-Eastern Tanzania in 2 weeks: day-by-day itinerary, bus routes, prices and where to stay"
 ---
 
 # Central Tanzania
@@ -11,7 +12,7 @@ We wrote this blog to explain how we backpacked for 2 weeks through Central/Nort
 Before you start, here was our itinerary: 
 <br> 
 
-![Trail](images/tanzania/itinerary.JPG)
+![Map of our 2 week Tanzania travel route](images/tanzania/itinerary.JPG)
 
 ## Day 1: Kilimanjaro-Arusha-Dodoma
 <u>Arrival in Kilimanjaro Airport:</u>

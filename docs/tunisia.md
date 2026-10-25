@@ -4,8 +4,8 @@ comments: true
 description: "6 day roadtrip through Tunisia - Tunis, Cultural Centre, Desert and Coast!"
 ---
 
-# Central Tanzania
-:octicons-calendar-24: September, 2026
+# Tunisia
+:octicons-calendar-24: October, 2026
 
 6 days of road tripping through sunny Tunisia without a single resort stop! We explored the interior of the country and also stopped by the coast for a sea dip. This trip took place in October 2026- 2 women (24 and 26 yo). 
 

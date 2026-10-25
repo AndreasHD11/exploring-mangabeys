@@ -57,7 +57,7 @@ We had thought of going to El Jem that evening to see the amphitheatre but there
 
 !!! info "Alex is available at +216 92 978 220 via WhatsApp for any bookings and is keen to help you with your questions and any logistics or activity planning in Tunisia!"
 
-## Day 3: IDouz and the desert via Matmata
+## Day 3: Douz and the desert via Matmata
 We drove from Kerouac down to Douz (4h drive with a pause in Matmata). 
 
 Matmata is very touristy (troglodyte homes). We stopped just before at one of the signposted “maisons troglodytes” and it was a great choice! [Dar Zohra Tijma](https://maps.app.goo.gl/cYe6TwdjWk7ssTRw7): We got a private tour of Mr Tijma’s house, and also bought tea and coffee from him. We tipped him for his visit (customary). Great place to go if you want something authentic and less crowded than where all the tourist buses stop in town. <p>

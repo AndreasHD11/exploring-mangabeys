@@ -13,7 +13,7 @@ description: "6 day roadtrip through Tunisia - Tunis, Cultural Centre, Desert an
 Before you start, here was our itinerary: 
 <br> 
 
-![Map of our 2 week Tanzania travel route](images/tanzania/itinerary.JPG)
+![Map of our 6 day Tunisia travel route](images/tunisia/tunisia_map.jpeg)
 
 ## Day 1: Kilimanjaro-Arusha-Dodoma
 <u>Arrival in Kilimanjaro Airport:</u>

@@ -24,16 +24,16 @@ We stayed at [this place](https://www.booking.com/hotel/tn/bedroom-in-the-city-c
 
 The next day we headed to the centre of Tunis to catch a train to see Carthage. We had a quick coffee and pastry (10 dinars each on a main street). <p>
 
-![tunis](images/tunisia/tunis.jpeg){width="90%"}
+![tunis](images/tunisia/tunis.jpeg)
 
 To get to Carthage we took the [TGM train](https://destination-tunis.fr/se-deplacer/tgm-tunis-carthage-la-marsa/) from Tunis Marine. It comes every 30-40 minutes, and cost us 0.8 TND each (800 in coins). We got off at Carthage Hannibal and walked to the Cathedral to get tickets (20 TND each and could be used for all of the sites). We then had time to see the Roman villas and Thermes d'Antonin. Took us about 2 hours for the whole loop. Good self-walking tour guide I found [here](https://www.gpsmycity.com/tours/carthage-walking-tour-2987.html). <p>
 
 We then hopped back on the train to get to Sidi Bou Saïd (you have to buy another ticket but can buy it from the controller, cost us a bit less this time, 0.5 TND each). It was very touristy- lots of people trying to sell you things but we got a chapati [here](https://maps.app.goo.gl/ZAXwEHu3gk5RegTE8), and went to sit with a nice view [here](https://maps.app.goo.gl/BieB1cmVKBhhbx2AA). We then walked down [via this route](https://maps.app.goo.gl/FLVPQiSk4Ut1AiBu9) towards La Marsa to wander the beach (lots of locals fishing and playing volleyball). The train back from La Marsa cost us 0.8 TND each to get back to Tunis Marine. Had dinner at a local food place on the street - lots around and open quite late. <p>
 
 <div class="carousel" markdown="1">
-![thermescarthage] (images/tunisia/thermes.jpeg){data-gallery="my-gallery-tunisia"}
-![sidimarsa] (images/tunisia/road siditomarsa.jpeg){data-gallery="my-gallery-tunisia"}
-![marsa](images/tunisia/lamarsa.jpeg){data-gallery="my-gallery-tunisia"}
+![thermescarthage] (images/tunisia/thermes.jpeg){data-gallery="my-galler"}
+![sidimarsa] (images/tunisia/road siditomarsa.jpeg){data-gallery="my-gallery"}
+![marsa](images/tunisia/lamarsa.jpeg){data-gallery="my-gallery"}
 </div>
 
 ## Day 2: Tunis to Kairouan (Kerouan)
@@ -48,9 +48,9 @@ Kairouan was a bit "tourist-crazy" when we arrived. As soon as we got out the ca
 We started with the Great Mosque which was beautiful but can’t see the interior. We then headed into the medina (NB: people will try to get you to come to their rooftop/see their carpets/get coffee). We stopped by the [Governor’s House](https://maps.app.goo.gl/GonftHPicx7jKxk89). It isn’t an official site visit and they try to sell you carpets or make you pay for a visit but nice nevertheless. We then walked around the souk and to the [Sidi Abid el Ghariani Mausoleum](https://maps.app.goo.gl/U6pNEb76WiiWtrZf6), which was beautiful and completely empty. <p>
 
 <div class="carousel" markdown="1">
-![mosque](images/tunisia/mosquee-kerouan.JPG){data-gallery="my-gallery-tunisia"}
-![mosque2](images/tunisia/mosquee-kerouan2.JPG){data-gallery="my-gallery-tunisia"}
-![sunsetkerouan](images/tunisia/kerouan view.jpeg){data-gallery="my-gallery-tunisia"}
+![mosque](images/tunisia/mosquee-kerouan.JPG){data-gallery="my-gallery"}
+![mosque2](images/tunisia/mosquee-kerouan2.JPG){data-gallery="my-gallery"}
+![sunsetkerouan](images/tunisia/kerouan view.jpeg){data-gallery="my-gallery"}
 </div>
 
 We had thought of going to El Jem that evening to see the amphitheatre but there are barely any hotels there. We therefore knocked on the door of [Dar Djamila](https://maps.app.goo.gl/afHgL8qinMoGVYPAA), and Alex (the owner) was so lovely and welcoming and let us stay in the smallest room he had for 20EUR each. It is a beautiful building and a homely stay. Alex makes you feel so welcome, helped us with lots of questions about where we should visit next, and made us a delicious breakfast! He also made us tea that we enjoyed on the rooftop at sunset, overlooking the town. <p>
@@ -63,8 +63,8 @@ We drove from Kerouac down to Douz (4h drive with a pause in Matmata).
 Matmata is very touristy (troglodyte homes). We stopped just before at one of the signposted “maisons troglodytes” and it was a great choice! [Dar Zohra Tijma](https://maps.app.goo.gl/cYe6TwdjWk7ssTRw7): We got a private tour of Mr Tijma’s house, and also bought tea and coffee from him. We tipped him for his visit (customary). Great place to go if you want something authentic and less crowded than where all the tourist buses stop in town. <p>
 
 <div style="display: flex; gap: 10px;" markdown="1">
-! [tijmapause] (images/tunisia/tijma-pause.JPG){width="49%"}
-! [tijmahouse] (images/tunisia/tijmahouse.jpeg){width="49%"}
+! [tijmapause] (images/tunisia/tijma-pause.JPG){ width="49%" }
+! [tijmahouse] (images/tunisia/tijmahouse.jpeg){ width="49%" }
 </div>
 
 We then drove on to Douz and the views were wonderful. We had booked a desert experience 2 days before via WhatsApp with the [Touil Travel Tunisia company](https://maps.app.goo.gl/guD1EJWTkqiLJUTJ9). This was 70 EUR per person and included a camelback ride to a camp for the night, dinner, a tent bed, breakfast and the ride back. We arrived and everything was sorted for us already, we were whisked away by their car to the meeting point to meet our guide and camels (our car stayed parked in a locked parking at the tour operator’s house). <p>
@@ -74,8 +74,8 @@ The camel ride was very good fun. We’re also no animal experts but they seemed
 They showed us how to make bread under the sand and embers. We then had dinner and they played songs for us by the fire (all very touristy, but nice to spend some time by the fire in any case). We were very lucky and only had one person with us on the tour, but the camp fits 32 so if you go in high season you could be at a pretty crowded spot! <p>
 
 <div style="display: flex; gap: 10px;" markdown="1">
-! [desertview] (images/tunisia/desert.jpeg){width="49%"}
-! [desertcamels] (images/tunisia/desertcamels.jpeg){width="49%"}
+! [desertview] (images/tunisia/desert.jpeg){ width="49%" }
+! [desertcamels] (images/tunisia/desertcamels.jpeg){ width="49%" }
 </div>
 
 ## Day 4: To El Jem via Chott El Jerid, and Mahdia 
@@ -83,13 +83,13 @@ In the morning we headed back on camelback to where we had been dropped off and 
 
 Chott El Jerid was nothing special. I think it might be better at sunset/sunrise but it sort of looked like a desert to us. Wouldn’t particularly say it was worth the detour. <p>
 
-![chott](images/tunisia/chotteljerid.jpeg){width="90%"}
+![chott](images/tunisia/chotteljerid.jpeg)
 
 We stopped at [El Hamma](https://maps.app.goo.gl/bBsi6LGmHt5WGsd78) for a quick chapati lunch and bought some dates (5TND for a kilo, someone told me locals get them for 1-2 TND for a kilo). <p>
 
 El Jem amphitheatre was spectacular, especially at golden hour. 20 TND per ticket. Well worth the visit! We drove on to Mahdia for the night. <p>
 
-![tunis](images/tunisia/eljem.jpeg){width="90%"}
+![tunis](images/tunisia/eljem.jpeg)
 
 ## Day 5: Mahdia
 
@@ -100,8 +100,8 @@ It was windy and sea was choppy so we walked to the other side of town for a swi
 We stayed in an apartment [here](https://www.booking.com/hotel/tn/mahdia-front-sea-2.fr.html?aid=356980&label=mkt123sc-6ec72b2d-dbd2-4ebd-999c-1d43a398aa73&sid=dcfb1164d3f7d35d911f62685d8651d8&dest_id=-725773&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1792144848&srpvid=7c314665b8e306a3&type=total&ucfs=1&) for 35 euros per night. It was a good location (sea front) and only 40 minutes from the old town but in October felt slightly quiet. Prices were in October so might be higher during summer. Maybe centre of town would have been more lively (seemed it in the evening). <p>
 
 <div style="display: flex; gap: 10px;" markdown="1">
-! [mahdia1] (images/tunisia/mahdia sunrise.jpeg){width="49%"}
-! [mahdia2] (images/tunisia/mahdia sunrise2.jpeg){width="49%"}
+! [mahdia1] (images/tunisia/mahdia sunrise.jpeg){ width="49%" }
+! [mahdia2] (images/tunisia/mahdia sunrise2.jpeg){ width="49%" }
 </div>
 
 ## Day 6: Back to Tunis

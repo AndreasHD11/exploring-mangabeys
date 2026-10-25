@@ -15,212 +15,108 @@ Before you start, here was our itinerary:
 
 ![Map of our 6 day Tunisia travel route](images/tunisia/tunisia_map.jpeg)
 
-## Day 1: Kilimanjaro-Arusha-Dodoma
-<u>Arrival in Kilimanjaro Airport:</u>
-Visa on arrival is 50$. Queue was quite long but took about 45 mins to get through (the queues for people who already had a visa took marginally less time but not super different). <p>
-We thought there were bus transfers to Arusha, probably are but didn’t manage to figure that out. Instead we took a private taxi and they began with $50 but then decreased to $35 and told us it was a friend’s price (likely the same spiel for everyone!). <p>
-The taxi driver brought us to Arusha bus station and helped us sort: a bus to Dodoma, SIM cards, some bread for the trip. <p>
+## Day 1: Arrival in Tunis & Tunis/Carthage
+<u>Arrival in Tunis:</u> <p>
+Arrived in Tunis fairly late- there is a surcharge for taxis but cost us 30 dinars for a 10 min trip into the centre. We picked up some dinars at the airport (There are ATMs as you exit - STB is the best* see top tips below). <p>
+We stayed at [this place](https://www.booking.com/hotel/tn/bedroom-in-the-city-center.fr.html?aid=356980&label=mkt123sc-b7e534f9-6c87-4e3d-91a7-ed88d94861c4&sid=dcfb1164d3f7d35d911f62685d8651d8&dest_id=-731701&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1792143891&srpvid=74fc4487fe95009c&type=total&ucfs=1&) (it's a hostel/room), but would only recommend if you’re looking for cheap accommodation. It was a 20 minute walk into the centre (medina, Clocktower), quite basic and a bit loud at night (from the women’s room).  <p>
 
-SIM cards: 
-SIM cards the easiest is to go to a Vodacom shop in town (there are some on the sides of the bus stations/streets). They take 10.000 Tsh for installing the SIMs and 10.000 for 5GBs of Data. Bring your passport for this.<p>
-ATMs: 
-We also stopped at an ATM on our way to the station: CRBD was our first stop but they only let you take 400,000 Tsh out at a time. NMB is slightly better: 600,000 Tsh at a time and only 15,000 in fees.<p>
+<u>Next day in Tunis and Carthage:</u> <p>
 
-The bus trip Arusha - Dodoma was 7 hours. We left at 14.30 and arrived to Area C Dodoma at 21.30. This bus did not stop for a toilet break for some reason (but every other bus in this trip did). We slept at Baobab Homestay. Would <u>personally</u> not recommend. The buses also usually stop in the centre of Dodoma and there are (according to our quick google/Booking.com search) fair priced hotels 5-6min walk from the station. We personally felt very safe walking at night but easy to take a motorbike/tuktuk to/from anywhere.
+The next day we headed to the centre of Tunis to catch a train to see Carthage. We had a quick coffee and pastry (10 dinars each on a main street). <p>
 
-![vodacom](images/tanzania/vodacom1.jpeg){width="90%"}
+![tunis](images/tunisia/tunis.jpeg){width="90%"}
 
+To get to Carthage we took the [TGM train](https://destination-tunis.fr/se-deplacer/tgm-tunis-carthage-la-marsa/) from Tunis Marine. It comes every 30-40 minutes, and cost us 0.8 TND each (800 in coins). We got off at Carthage Hannibal and walked to the Cathedral to get tickets (20 TND each and could be used for all of the sites). We then had time to see the Roman villas and Thermes d'Antonin. Took us about 2 hours for the whole loop. Good self-walking tour guide I found [here](https://www.gpsmycity.com/tours/carthage-walking-tour-2987.html). <p>
 
-## Day 2: Dodoma to Iringa
-Next morning we took a motorbike to the station we needed to go to Iringa from. [Busbora](https://busbora.com/) is the website we were checking for bus timings. It initially said we should leave from Nanenane station which is much further away from Dodoma, in the outskirts towards the Dar Es Salaam direction. This is not where we ended up going. We just told the bodaboda driver we were going to Iringa and he took us to a place where buses leave from. We took "Rosa Luxury" bus to Iringa.
-
-The bus ride from Dodoma to Iringa took about 4 hours. We left at 10.30 and arrived at 14.30. The bus drops you around here: [GPX](https://maps.app.goo.gl/yLFQm2KdkN7LBSiH6){: target="_blank"} point. We had lunch in a café on the side of the main street, and then walked to the hostel but you can also take bodaboda/tuktuk. 
-
-In Iringa, we stayed at Hidden Valley Backpackers’ Hostel: <br>
-
-![Hidden Valley Backpackers' Hostel](images/tanzania/hidden-valleys.jpg)
-<br>
-It was a great stay with a lovely outdoor area to relax and clean rooms. It’s about 15-20 min walk from town. Our favourite place to eat in Iringa was “Clocktower Cafe”.
-
-!!! info "Booking the Safari"
-    We wanted to book a safari in Ruaha National Park but prices online are often inflated, so we walked down to one of the safari shops: [GPX](https://maps.app.goo.gl/V57jf5fXfNTDbaEi8). It cost us $250 for 2 days per person, everything included (and this was a group safari with one other person, although whilst negotiating the private option was almost the same price). We paid in cash in Tsh (there is an NMB ATM nearby).
-
-## Day 3-4: Iringa Safari
-They picked us up at 9am the next day. Lunch and dinner included and we stayed in a nice hut even though it was apparently the “cheap option”.
-
-Worth noting that Ruaha was amazing and we saw elephants, lions, giraffes, a leopard, hippos, buffalo, lots of different antelopes… We didn’t see many other cars/tours and this made it feel really special! 
+We then hopped back on the train to get to Sidi Bou Saïd (you have to buy another ticket but can buy it from the controller, cost us a bit less this time, 0.5 TND each). It was very touristy- lots of people trying to sell you things but we got a chapati [here](https://maps.app.goo.gl/ZAXwEHu3gk5RegTE8), and went to sit with a nice view [here](https://maps.app.goo.gl/BieB1cmVKBhhbx2AA). We then walked down [via this route](https://maps.app.goo.gl/FLVPQiSk4Ut1AiBu9) towards La Marsa to wander the beach (lots of locals fishing and playing volleyball). The train back from La Marsa cost us 0.8 TND each to get back to Tunis Marine. Had dinner at a local food place on the street - lots around and open quite late. <p>
 
 <div class="carousel" markdown="1">
-![Elephants](images/tanzania/elephants1.JPG){data-gallery="my-gallery"}
-![sunset](images/tanzania/sunset1.JPG){data-gallery="my-gallery"}
-![leopard](images/tanzania/leopard1.jpg){data-gallery="my-gallery"}
-![giraffe](images/tanzania/giraffe.JPG){data-gallery="my-gallery"}
+![thermescarthage] (images/tunisia/thermes.jpeg){data-gallery="my-gallery-tunisia"}
+![sidimarsa] (images/tunisia/road siditomarsa.jpeg){data-gallery="my-gallery-tunisia"}
+![marsa](images/tunisia/lamarsa.jpeg){data-gallery="my-gallery-tunisia"}
 </div>
 
-## Day 5: Iringa to Mang’ula (Udzungwa National Park) 
-We booked a ticket from Iringa to Morogoro the day before leaving (these buses continue on towards Dar so they fill up relatively quickly). We booked at the ABC Upper Class Bus office [GPX](https://maps.app.goo.gl/VEZiZQ4JZCtbFJUD9). We would be stopping in Mikumi but they charge you the same (1 ticket to Morogoro). <p>
+## Day 2: Tunis to Kairouan (Kerouan)
+On this morning we picked up the car from the airport. We got a taxi there for 6 TND total. We had looked into getting a bus to the airport but it is slightly complex because it leaves from Tunis Marine which was a 20 minute walk for us with bags- and taxi ended up being very cheap anyways! <p>
 
-On the bus we just told the attendant that we would be getting off at Mikumi and she kindly looked out for us and told us when we were nearing the stop. Bus left just past 7:30am and arrived at 12 in Mikumi here: [GPX](https://maps.app.goo.gl/D4fuWyj7uCH3UHYi8). We walked away from the bus station to find food but ended up walking a bit far. It’s maybe best to stay around that area for some ugali/chicken because the bus leaving towards Mang’ula leaves from that same location (opposite side of the road though): [GPX](https://maps.app.goo.gl/D4fuWyj7uCH3UHYi8). <p>
+We had rented the car here at [Tunisia Rent Car](https://maps.app.goo.gl/X2qqBjuwJcpXHVAW9). It was 160€ for the car rental with insurance included. They were super helpful and even let us bring the car back 4 hours past the return time. <p>
 
-We asked around in Swahili and a woman and 2 guys helped us find the right bus and pay our fare (10k Tsh per person). It was a smaller bus and we ended up sitting at the front with the driver because there were no seats left. It’s just a 1h15 ride. They dropped us off in front of the National Park gate [GPX](https://maps.app.goo.gl/a6YtBRK94KVsNMmaA). <p>
+The drive from Tunis to Kairouan took about 2h30 and we weren’t on the highway the whole time. Could have easily stopped for some food/drinks at any cafe on the side of the road if we wanted to. <p>
 
-<figure markdown="span" class="figure-left">
-![Mangula Bus](images/tanzania/mangula-bus.jpg)
-<figcaption>Sometimes seats get filled up and you end up sitting on the floor. Makes for a bumpy but very fun ride. </figcaption>
-</figure>
+Kairouan was a bit "tourist-crazy" when we arrived. As soon as we got out the car people were trying to give us guided tours of the city. We ended up paying a 20 TND ticket for all the large sites in the city (NB: the [Basins of Aghlabides](https://maps.app.goo.gl/GU282BqEqw4Z6iWT8) are closed this year). <p>
 
-We walked towards Mang’ula B and stayed in Mangabey Lodge the first night. It was 17.000 Tsh for a double room, but the bathroom didn’t smell great and the sheets weren’t very clean, so we changed to Mgaya Executive Lodge for our other two nights (50-70k shillings for foreigners), but this is a great, clean, and well-located option (10 min walk from the National Park gate). We know there are tourist lodges such as Twiga, but they cost 70$ for foreigners for one night and are non-negotiable as they are managed by the government and National Park. 
-
-## Day 6-7-8: Mangula and Udzungwa
-### Mangula
-Great village to stay at for a couple of days!! You get to experience village life and people are so lovely and happy to help. 
-A few tips/places we recommend: <p>
-
-- Chuda Shop: [GPX](https://maps.app.goo.gl/SWGmKGGs6YQXvdCL8). This little shop has a red cage around it, and is held by Hamida and Chuda. Hamida is absolutely fantastic. She speaks fluent english and helped us with finding fabric (kitenge) and a seamstress (fundi) to make clothes! You can also buy water and snacks from this shop. 
-- There was another great shop with pretty decent bread (yellow in colour but very nice!) [GPX](https://maps.app.goo.gl/tFWyGht652HQpE4s7). For eating, we went to the Mountain Peak Lodge every night we were there. Pretty basic but filling (ugali, chicken, beans) for 10,000 Tsh per person. 
-- We also ate at a chips mayai place (chips in egg omelette) on the side of the road (more or less around here: [GPX](https://maps.app.goo.gl/csfxdFQaxDeVZo2W7)).
-- You can easily rent bicycles around town, we rented on this street: [GPX](https://maps.app.goo.gl/wtxgfJ4CGczXcrmG7). Cost us 600 Tsh for two bikes for an hour. We rode down the road into the rubber plantations [GPX](https://maps.app.goo.gl/8zxbCYCTG5pziC4o7), was a really nice and easy activity. 
-
+We started with the Great Mosque which was beautiful but can’t see the interior. We then headed into the medina (NB: people will try to get you to come to their rooftop/see their carpets/get coffee). We stopped by the [Governor’s House](https://maps.app.goo.gl/GonftHPicx7jKxk89). It isn’t an official site visit and they try to sell you carpets or make you pay for a visit but nice nevertheless. We then walked around the souk and to the [Sidi Abid el Ghariani Mausoleum](https://maps.app.goo.gl/U6pNEb76WiiWtrZf6), which was beautiful and completely empty. <p>
 
 <div class="carousel" markdown="1">
-![Rubber](images/tanzania/rubber1.JPG "Rubber plantation")
-![mangula1](images/tanzania/mangula1.JPG "Simba FC playing")
-![mangula2](images/tanzania/mangula2.JPG)
-![mangula3](images/tanzania/mangula3.jpg "Mangula train station")
+![mosque](images/tunisia/mosquee-kerouan.JPG){data-gallery="my-gallery-tunisia"}
+![mosque2](images/tunisia/mosquee-kerouan2.JPG){data-gallery="my-gallery-tunisia"}
+![sunsetkerouan](images/tunisia/kerouan view.jpeg){data-gallery="my-gallery-tunisia"}
 </div>
 
-### Udzungwa National Park
-There are multiple hikes you can do. There are overnight hikes and day hikes. The ones we did/explored doing were:
+We had thought of going to El Jem that evening to see the amphitheatre but there are barely any hotels there. We therefore knocked on the door of [Dar Djamila](https://maps.app.goo.gl/afHgL8qinMoGVYPAA), and Alex (the owner) was so lovely and welcoming and let us stay in the smallest room he had for 20EUR each. It is a beautiful building and a homely stay. Alex makes you feel so welcome, helped us with lots of questions about where we should visit next, and made us a delicious breakfast! He also made us tea that we enjoyed on the rooftop at sunset, overlooking the town. <p>
 
-- <u>Sanje Waterfall</u> day hike, 4 hours (did)
-    - Cost 180,000 Tsh for 2 to pay for park entry, and an extra 50,000 Tsh combined for a guide. You can't enter the park without a guide. 
-    - Was 5 hours but we took our time on the top and swam in the pools of the waterfall. 
-    - Nice marked trail, about 6k and 400m elevation.
+!!! info "Alex is available at +216 92 978 220 via WhatsApp for any bookings and is keen to help you with your questions and any logistics or activity planning in Tunisia!"
 
-- <u>Mangabey hike</u> day hike, 6 hours (did) 
-    - This hike takes you for around 6 hours, couldn’t really say how much we walked but approximately the same as Sanje. It’s definitely more adventurous though as it takes you off the track and into the forest (wear long pants!) as you look for the endemic Sanje Mangabey monkeys. Ours was great fun! Yusuf, our guide, knew so much about every species in the forest (snake and bird expert especially), which made this very fun and interesting.
-    - This is a hike you need to ask about 1-2 days in advance because they send out an expert to track and locate the rare Sanje Mangabey monkeys. We asked the afternoon before and was doable.
-    - We saw: an incredible red spiny spider, some cool ant formation, many birds, colobus, dik-dik, and hyraxes.
+## Day 3: IDouz and the desert via Matmata
+We drove from Kerouac down to Douz (4h drive with a pause in Matmata). 
 
-- Mwanihana hike - 3 days, 2 nights (inquired about but didn’t do) 
-    - This trek takes you to Mwanihana summit and back over 3 days. We had inquired about doing it in 2 to reduce cost but found no one willing to do it… I’m sure someone would but we didn’t look very far. 
-    - The cost is quite high, you need to pay for park fees for all three days, camping fees (30$ per night), tent rentals (30$ per night), a cook and porters, the guides for all three days and a ranger (you cross buffalo and elephant territory).
+Matmata is very touristy (troglodyte homes). We stopped just before at one of the signposted “maisons troglodytes” and it was a great choice! [Dar Zohra Tijma](https://maps.app.goo.gl/cYe6TwdjWk7ssTRw7): We got a private tour of Mr Tijma’s house, and also bought tea and coffee from him. We tipped him for his visit (customary). Great place to go if you want something authentic and less crowded than where all the tourist buses stop in town. <p>
 
-- Hidden Valleys day hike, 10 hours (inquired about but didn’t do) 
-    - Cost is same as Sanje hike (park fees + guide) but also needed a ranger (60,000 Tsh per day) because you cross elephant and buffalo territory. 
-    - We were told elephants are rarely seen and more so during November/December so we decided to go with the Mangabey trail instead. 
-    - Trail is about 13km and 1300m elevation, you cross 2 rivers that are ankle deep. 
-
-Yusuf's [social media](https://www.instagram.com/kabilasafaris/) and [website](https://kabilasafaris.com/index.html) (seems to be only luxury safaris on that website, but a cheaper one is organisable by writing via whatsapp most likely): +255 675 584 229
-
-NB: You cannot enter the park without a guide. 
-
-<div class="carousel" markdown="1">
-![Sanje1](images/tanzania/sanje1.JPG)
-![Sanje](images/tanzania/cataratas.JPG){ .carousel-tall }
+<div style="display: flex; gap: 10px;" markdown="1">
+! [tijmapause] (images/tunisia/tijma-pause.JPG){width="49%"}
+! [tijmahouse] (images/tunisia/tijmahouse.jpeg){width="49%"}
 </div>
 
-### Train from Mang’ula to Makambako 
-We wanted to take a train in Tanzania. There is the famous Tazara Railway in the South that goes from Dar to Mbeya and beyond to Zambia, but from the info we got, it’s currently not going to Zambia, just stops in Mbeya on the Tanzanian side. 
-However it’s possible to hop on/off at different stops on this train. We entertained the option but the days of the week it passed to/from our preferred stations didn’t stick with our plans. <br>
-The best thing is to contact the station chiefs and booking officers on WhatsApp. Their details are listed on the website: https://www.tazarasite.com/customer-care-reservations-passenger-services, and [this](https://tazarasite.com/node/506) helped us a bit when researching before arriving in Tanzania for the timings (beware of different Swahili time).
+We then drove on to Douz and the views were wonderful. We had booked a desert experience 2 days before via WhatsApp with the [Touil Travel Tunisia company](https://maps.app.goo.gl/guD1EJWTkqiLJUTJ9). This was 70 EUR per person and included a camelback ride to a camp for the night, dinner, a tent bed, breakfast and the ride back. We arrived and everything was sorted for us already, we were whisked away by their car to the meeting point to meet our guide and camels (our car stayed parked in a locked parking at the tour operator’s house). <p>
 
-There is also the Udzungwa Shuttle Passenger Train. This is the one we took from Mang’ula to Makambako. (The starting place is Kidatu, but we got on at Mang’ula). 
-We booked on a little late so only second class was available (6 beds to a cabin) instead of 4 beds to a cabin in first class. However, on the day of they proposed we pay for first class (22,800 Tsh per person to go from Mang’ula to Makambako). The cabins are segregated so we stayed in different ones but were next door from each other. 
+The camel ride was very good fun. We’re also no animal experts but they seemed well fed and we saw they were well taken care of during the stay. The ride was about 1h30 long, and we had time upon arrival at the camp to watch sunset from a dune nearby. They let you walk around pretty freely. <p>
 
-The train left Mang’ula at 6pm but this timing varies (we were at the station at 4.30pm to avoid missing it). NB: Be careful about timings. At the station at Mang’ula the train board it was Tanzanian timings- which greatly confused us. It’s best to contact the station chief for news on approximate timings closer to your travel date. 
+They showed us how to make bread under the sand and embers. We then had dinner and they played songs for us by the fire (all very touristy, but nice to spend some time by the fire in any case). We were very lucky and only had one person with us on the tour, but the camp fits 32 so if you go in high season you could be at a pretty crowded spot! <p>
 
-There is a food wagon up the train that serves rice/chips/chicken. 
-
-The ride to Makambako is very bumpy (the train is rickety in itself). We didn’t get much sleep. Vendors are selling water/snacks at every stop from outside the windows.
-
-## Day 9: Leaving Makambako
-We arrived at 9am at Makambako's train station.
-Makambako was cold (had to put our coats on), and we were a bit tired. So we decided to ditch our plans of going to Matema and Tukayu since the way there was long and we had already seen lots of nature and waterfalls. So instead we took the bus back to Iringa. The train stop right next to the main road, and buses stop along there towards the West towards Mbeya and towards the East towards Iringa. 
-
-We slept one night in Iringa (Hidden Valley Backpackers). Plan was to head to Tanga (northern coast) but to travel there in 2 days instead of 1 to avoid the 13 hour bus trip. 
-
-## Day 10: Iringa to Morogoro
-We took ABC Upper Class bus (had booked the night before as they get filled up fast) the next morning all the way to Morogoro (30,000 Tsh per person. left at 7.30, got to Morogoro at 14.30). Upon arrival we booked our ticket for the next day to Tanga. RATCO Express but we booked through an agent called Mbeya City: +255 779701727. It was 35,000 Tsh per person. 
-
-Took a pikipiki to town and stayed at Mama Pierina Hostel (55,000 Tsh for a double room if you pay in person- cheaper than through Booking). The stay was great: rooms are clean and it is held by an italian-greek woman who grew up in Tanzania. There was fresh lasagne for dinner!
-
-![pierina](images/tanzania/morogoro-hd2.JPG)
-
-We visited Morogoro on foot, very nice town with beautiful mountains surrounding it. There is a central market where you can buy kitenge (local cloth).
-
-![morogoro](images/tanzania/morogoro-hd1.JPG) <br>
-Also, we’re told there is a train from Dodoma-Dar that stops in Morogoro. It’s modern and takes 1h45 from Morogoro to Dar (not sure of price but could be a good option instead of bus).
-
-## Day 11: Tanga
-We took the bus to Tanga. It took about 7 hours, we arrived in the evening. We slept at the Hotel Pope John Paul II: [GPX](https://maps.app.goo.gl/A8JAoNgB3FybVUFE9). 40,000 Tsh for double bed with bathroom and breakfast. All very clean and the people were lovely. It’s a 15-20 min walk from centre. 
-Had dinner at Arbab Tanga SeaFood: [GPX](https://maps.app.goo.gl/8WCVMHST3opJYSR96). Good option late in the evening when there is nothing open/no fish left anywhere to eat. 
-
-## Day 12-13: Pangani - North-Eastern Coast
-
-From Tanga towards Pangani there are hourly departures of daladalas from the Pangani bus station - any tuktuk/bodaboda driver will know this place and take you there. The trip costs 5000 Tsh per person to Pangani / any point along that road up until Pangani. We got there about 9:15 and had to wait until 10 (more or less, they wanted to wait until the bus filled up to leave). The drive is about 2 hours to Pangani. 
-
-We wanted a coastal stay so we chose: Juani Pangani - [GPX](https://maps.app.goo.gl/sAYsvj4SJArfRTtm9). We just told the daladala driver where we wanted to get off and they dropped us off on the road- after that, we walked 10 mins to the place. It felt very peaceful and was an incredible value for money (70000 Tsh per night). We had the place to ourselves: 2 single beds (no double bed) and a huge living area with a kitchen (if you bring your own food you can cook), and a seated area that is covered but outdoors and next to the palm trees.
-
-<div class="carousel" markdown="1">
-![Pangani1](images/tanzania/pangani-house1.JPG){data-gallery="my-gallery"}
-![Pangani2](images/tanzania/pangani-house2.JPG){data-gallery="my-gallery"}
+<div style="display: flex; gap: 10px;" markdown="1">
+! [desertview] (images/tunisia/desert.jpeg){width="49%"}
+! [desertcamels] (images/tunisia/desertcamels.jpeg){width="49%"}
 </div>
 
-Benny (the caretaker - +255678312518) was a great help- he brought us to Pangani for our day trip and came to pick us up again. He also organised the day trip through a contact: Kassim (+255 717463871).  <p>
+## Day 4: To El Jem via Chott El Jerid, and Mahdia 
+In the morning we headed back on camelback to where we had been dropped off and got driven back to our car. NB: We saw a lot of people quad biking and riding camels- these are options too if you don’t want to sleep overnight at the desert camp. We picked up some cash and started the long drive to El Jem via Chott El Jerid (1h to Chott El Jerid from Douz and 3h30+ to El Jem after, and another 45 mins to Mahdia from El Jem). <p>
 
-The day trip we chose was Maziwe Island. It’s a sandbank about 35 minutes away from Pangani by boat. It cost us 60 USD each and included the boat trip, entry to the nations park, the guides, and a snorkelling mask. We arrived first to the island and it was truly magical. A local student group arrived later. The snorkelling was great: coral, fish.
+Chott El Jerid was nothing special. I think it might be better at sunset/sunrise but it sort of looked like a desert to us. Wouldn’t particularly say it was worth the detour. <p>
 
-![Maziwe](images/tanzania/maziwe1.JPG)
+![chott](images/tunisia/chotteljerid.jpeg){width="90%"}
 
-## Day 14: Pangani to Moshi
-To leave Juani Pangani, we just set up by the main road and waited for the first daladala passing by. We got picked up after 10 mins and it took us another 1h30 to get back to Tanga (Pangani bus station). 
+We stopped at [El Hamma](https://maps.app.goo.gl/bBsi6LGmHt5WGsd78) for a quick chapati lunch and bought some dates (5TND for a kilo, someone told me locals get them for 1-2 TND for a kilo). <p>
 
-From there we took a Tuktuk to the station where buses leave for Moshi. The first one was leaving 5 minutes after we arrived. <p>
-However: word of caution- the guys at the bus stations will try shepherding you onto a bus as quickly as possible to avoid losing our business to other companies. Our mistake was being easily led onto the first bus leaving which turned out to be the most inefficient bus of them all. It took us 9 hours approximately when it should have been a 7 hour bus ride. The bus in question stopped at each small village, picking up and dropping people along the way. Advice: look into the good bus companies/ask around before getting to the bus station so you have an idea of which one is the express bus. We paid 30,000 Tsh each from Tanga to Moshi. 
-## Day 15: Moshi
-Not particularly impressed by this city. We stayed at Climbers’ Home the first night which was basic but fine. We moved to Mahali House [GPX](https://maps.app.goo.gl/5ciuubnG7NC57NXG8) which was great and a 30 min walk or 8 min pikipiki from town. 
+El Jem amphitheatre was spectacular, especially at golden hour. 20 TND per ticket. Well worth the visit! We drove on to Mahdia for the night. <p>
 
-![moshi](images/tanzania/moshi.jpg)
+![tunis](images/tunisia/eljem.jpeg){width="90%"}
 
-We had dinner (both great) at: <br>
+## Day 5: Mahdia
 
-- Paji’s Bar and Restaurant [GPX](https://maps.app.goo.gl/Zx4D2XpSQGwsb3rAA) 
-    - Indian food but on the more expensive side of things if you’re on a budget - we paid 60k Tsh for two curries, two naans, rice portion and 2 waters. 
-- Moshi Pazuri Bar & Restaurant [GPX](https://maps.app.goo.gl/7BphrtQLUSbmGfrV7)    
-    - Grilled meat and sides, very good and nice vibes in the evening (music, pool tables etc) 
+Mahdia is a resort town like its neighbours Monastir and Sousse but, according to a few locals we spoke to, much smaller and likely less busy (in October we saw some people but not huge crowds). <p>
 
-## Day 16: Leaving Tanzania
-If you’re in Moshi or Arusha, the day before departure you can go to the Air Tanzania office and they had a shuttle leaving the next morning at 4:30am from in front of their office tower (other times as well probably). It was on time and cost 15,000 Tsh per person. Private shuttles are more expensive and it seems most quote around 50USD. 
+It was windy and sea was choppy so we walked to the other side of town for a swim. We passed through [Cap Afrique](https://maps.app.goo.gl/7fw5uh1CqS9EZBgy8) at the tip of the city, which was beautiful, and then settled down at [Café Sidi Salem Elghar](https://maps.app.goo.gl/WC262jehA2P4ikP79). They have a small staircase down to a crystal clear but small rocky bay where you can swim if you’re having something to eat/drink. Worth the 6 TND we spent on ice cream there. We also had lunch at [Chez Naima](https://maps.app.goo.gl/jBD8twyT1W8v2ZfN7). This was a great experience! We had fresh prawns and rice, and a veggie option: shakshuka, all for 25 TND. The other local place we had looked at was [Oklet Zemen](https://maps.app.goo.gl/taiqMG41sQhwDo5W9) which looked a bit more upscale but delicious and still very fairly priced. However for this one you need to call the day before to reserve - locals love it and the cook only makes a set number of dishes per day for those who have reserved! <p>
+
+We stayed in an apartment [here](https://www.booking.com/hotel/tn/mahdia-front-sea-2.fr.html?aid=356980&label=mkt123sc-6ec72b2d-dbd2-4ebd-999c-1d43a398aa73&sid=dcfb1164d3f7d35d911f62685d8651d8&dest_id=-725773&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1792144848&srpvid=7c314665b8e306a3&type=total&ucfs=1&) for 35 euros per night. It was a good location (sea front) and only 40 minutes from the old town but in October felt slightly quiet. Prices were in October so might be higher during summer. Maybe centre of town would have been more lively (seemed it in the evening). <p>
+
+<div style="display: flex; gap: 10px;" markdown="1">
+! [mahdia1] (images/tunisia/mahdia sunrise.jpeg){width="49%"}
+! [mahdia2] (images/tunisia/mahdia sunrise2.jpeg){width="49%"}
+</div>
+
+## Day 6: Back to Tunis
+We left Mahdia after a morning swim at 9 and made it to Tunis by 11:45 just in time for a hammam before heading to the airport. We chose this one: [Hammam Sidi Sahbi](https://maps.app.goo.gl/e62YEn7k3oy1QRA99). It was very local but a lovely experience. The women took great care of us (scrub and shampoo for 30 TND per person- likely tourist pricing but still very fair). We stayed in the steam room for about 10 minutes and then went on to be scrubbed and washed. The hygiene of the place is okay- but definitely don’t go here if you’re looking for an upscale experience. It’s pretty basic but very fun! We were out again 35 minutes later, which gave us enough time for a short walk through the medina. From what we saw it was beautiful but quite crowded and was a lot of souvenir shops. <p>
 
 ## Tips and other info
-- Prices are generally all flexible, just barter (not National Park entry/guide prices).
-- WhatsApp is king: ask for people’s numbers and communicate through there.
-- Buses: 
-    - Buses in Tanzania leave relatively on time usually. The buses we have had varied in quality but most have plugs for charging, some have aircon. The nicest we took was ABC company from Iringa to Mikumi. ABC and RATCO were the only ones that had toilets inside, but all of the buses we took stopped for toilet breaks (except one). 
-    - The tickets cost us anywhere between 20.000 and 40.000 for 4-8 hour journeys respectively. We didn’t pay more than that. But bear in mind different operators will have different prices. Busbora can help you find a good idea for how much it will cost you to get from place to place. If you’re unsure where to head, just ask around and people will help you get to the right place/station for the bus/direction you need. Sometimes it’s just a spot on a sidewalk. Men are usually nearby trying to sell bus seats, and they’ll come towards you to ask where you’re going. We went with the flow and got on all the right buses. They can’t really overcharge you because bus fares are standardised per company. 
-- Most dishes (eg. Ugali) we ate with our hands. You can ask for cutlery but depends on the place and how "local" you go! 
-- "Time/Hours" are different in Tanzania: to get the local time you need to take away 6. e.g. 10 in the morning (International time) is 4 in the morning in Tanzania. Do not worry if you see very different times on bus/train boards. Always double check: https://www.langmedia.fivecolleges.edu/resources/tanzania/basic-communications/telling-time 
-- Learn numbers in swahili- very helpful for knowing the price of things and bartering. Some slang words are used for standard amounts.
+- SIM cards: we bought ours from Orange [here](https://maps.app.goo.gl/43WDt1n7P7Eh9xuM8). It was 20 dinars each for 8 GBs and the SIM activation. Ooreedoo has a shop just around the corner that would likely be fine too (noticed some locals used this instead). 
+- Driving and police: Driving in Tunisia can be hectic but mostly was fine. Slightly more chaos in the centres of town but the highway was very calm. All roads are of good quality (the ones we took). Lots of police checkpoints but they didn’t stop us most of the time (got stopped once in four days), and waved us on when they saw we were foreigners.
+- Food and hygiene: We didn’t feel ill a single time despite being warned, but the harissa sauce can be very spicy.. You've been warned! 
+- Cash and banks: STB was the best value for money (ATM fees), 400 TND max take out and a 10 TND fee. We tried another but it was also 10 TND and 300 TND max. You can pay in euros at some hotels/for some big tours but Dinars mostly and nowhere really takes card except supermarkets like Carrefour/fancier places and not outside of Tunis. 
+- WhatsApp: Again, WhatsApp is king/queen in Tunisia! Most numbers listed on google maps are available on WhatsApp and we found everyone to be very responsive. 
 
-- Important words used:
-    - Daladala: local bus that doesn’t cover very long distances (normally not the same as "basi" which is the longer buses). 
-    - Bodaboda/Pikipiki: Motorbike. We use these interchangeably but it seems pikipiki is more often used in Tanzania. Bodaboda is understood by everyone though.
+- One of us is fluent in French and speaks a little bit of Arabic. The French was very useful as it is the second most spoken language in Tunisia. The arabic also helped with getting around when not near the coast/Tunis (Centre and South of the country/more rural areas generally speak less French). English was spoken mostly by younger people (30/25 years old and under). 
 
-- One of us spoke a little bit of Swahili which was extremely useful to ask around. Depending on where you go, many people won't speak English so knowing how to communicate a bit will help.
-
-- For prices and weather purposes: this trip was done in summer 2026.
-
-
-## More photos!
-<div class="carousel" markdown="1">
-![Pangani2](images/tanzania/mangula-crops.JPG){data-gallery="my-gallery"}
-![Pangani1](images/tanzania/iringa-bus.JPG){data-gallery="my-gallery"}
-![Pangani2](images/tanzania/mikumi-cafe.JPG){data-gallery="my-gallery"}
-![Pangani2](images/tanzania/panganibeach.JPG){data-gallery="my-gallery"}
-![Lion](images/tanzania/lion1.JPG){data-gallery="my-gallery"}
-![northeeast](images/tanzania/northeast.JPG)
-</div>
+- For prices and weather purposes: this trip was done in October 2026. 
 
 ## Our view on our travels
 Travelling comes with privilege. We travel with our money, education, cultural and social understandings and norms. When we leave the "beaten path" and choose to travel further away from the established tourist trail through countries, we end up in places where economies and social structures are not necessarily prepared to receive us. It is important in those moments to remember that we are guests and to respect the values, norms and traditions of the place we are in. We are also a guest of nature and must leave no trace wherever we go. We have tried as much as possible to abide by this wherever we have gone and hope that wandering through these places you will too. Being kind and open-minded goes a long way!

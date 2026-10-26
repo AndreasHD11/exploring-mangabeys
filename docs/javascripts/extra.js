@@ -27,7 +27,8 @@ document$.subscribe(initCarousels);
 
 const blogCountries = {
   NO: "norway/",
-  TZ: "tanzania/"
+  TZ: "tanzania/",
+  TN: "tunisia/",
 };
 
 document$.subscribe(function () {

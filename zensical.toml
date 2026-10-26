@@ -13,6 +13,7 @@ site_description = "Hello! If you enjoy off-the-beaten-path trips with a good do
 nav = [
   { "Tanzania" = "tanzania.md" },
   #{ "Norway" = "norway.md" },
+  { "Tunisia" = "tunisia.md" },
 ]
 
 extra_css = [

@@ -31,8 +31,8 @@ To get to Carthage we took the [TGM train](https://destination-tunis.fr/se-depla
 We then hopped back on the train to get to Sidi Bou Saïd (you have to buy another ticket but can buy it from the controller, cost us a bit less this time, 0.5 TND each). It was very touristy- lots of people trying to sell you things but we got a chapati [here](https://maps.app.goo.gl/ZAXwEHu3gk5RegTE8), and went to sit with a nice view [here](https://maps.app.goo.gl/BieB1cmVKBhhbx2AA). We then walked down [via this route](https://maps.app.goo.gl/FLVPQiSk4Ut1AiBu9) towards La Marsa to wander the beach (lots of locals fishing and playing volleyball). The train back from La Marsa cost us 0.8 TND each to get back to Tunis Marine. Had dinner at a local food place on the street - lots around and open quite late. <p>
 
 <div class="carousel" markdown="1">
-![thermescarthage] (images/tunisia/thermes.jpeg){data-gallery="my-gallery"}
-![sidimarsa] (images/tunisia/road siditomarsa.jpeg){data-gallery="my-gallery"}
+![thermescarthage](images/tunisia/thermes.jpeg){data-gallery="my-gallery"}
+![sidimarsa](images/tunisia/road siditomarsa.jpeg){data-gallery="my-gallery"}
 ![marsa](images/tunisia/lamarsa.jpeg){data-gallery="my-gallery"}
 </div>
 

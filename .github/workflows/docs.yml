@@ -4,7 +4,7 @@ on:
     branches:
       - main
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 jobs:
@@ -16,6 +16,18 @@ jobs:
     steps:
       - uses: actions/configure-pages@v6
       - uses: actions/checkout@v7
+      - name: Add missing country flags
+        run: |
+          for code in $(grep -ho '^icon: flags/[a-z]*' docs/*.md | cut -d/ -f2); do
+            f=overrides/.icons/flags/$code.svg
+            [ -f "$f" ] || curl -fsSL "https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/flags/1x1/$code.svg" -o "$f"
+          done
+          git add overrides/.icons/flags
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Add missing country flags"
+          git push
       - uses: actions/setup-python@v6
         with:
           python-version: 3.x

@@ -16,17 +16,19 @@ jobs:
     steps:
       - uses: actions/configure-pages@v6
       - uses: actions/checkout@v7
-      - name: Add missing country flags
+      - name: Add missing country flags and map countries
         run: |
           for code in $(grep -ho '^icon: flags/[a-z]*' docs/*.md | cut -d/ -f2); do
             f=overrides/.icons/flags/$code.svg
             [ -f "$f" ] || curl -fsSL "https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/flags/1x1/$code.svg" -o "$f"
           done
-          git add overrides/.icons/flags
+          grep -H '^icon: flags/' docs/*.md | sed -E 's|docs/(.*)\.md:icon: flags/([a-z]+).*|  \U\2\E: "\1/",|' > "$RUNNER_TEMP/countries"
+          sed -i "/^const blogCountries = {/,/^};/{//!d}; /^const blogCountries = {/r $RUNNER_TEMP/countries" docs/javascripts/extra.js
+          git add overrides/.icons/flags docs/javascripts/extra.js
           git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Add missing country flags"
+          git commit -m "Add missing country flags and map countries"
           git push
       - uses: actions/setup-python@v6
         with:
